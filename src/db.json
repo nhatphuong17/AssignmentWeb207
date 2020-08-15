@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": "27kpse4za",
+      "name": "Nước hoa Charme Pinnacle 100ml",
+      "cateid": "s678awytk",
+      "description": "  Nguyên set, giá hãng là 100 triệu, giá em ORDER chưa tới 1/10, nên quả thật, rất xứng đáng để chi luôn.\nĐây là một trong những mẫu nằm trong BST Cruise 2019 - lãnh địa vốn chỉ dành cho giới thương lưu, nên một khi đã chọn set đồ này, là mặc 1 bộ, đáng 1 bộ. Thời buổi công nghệ phát triển, lên hình ai cũng đẹp như ai, nhất thiết càng phải chú trọng đầu tư vào ăn mặc. Bởi nó chính là cách chỉn chu nhất, mạnh mẽ nhất giúp bạn tuyên ngôn với đám đông rằng bạn là ai, như thế nào...\nChất vải tweed đặc trưng của thương hiệu cao cấp, đi cùng với thiết kế phóng khoáng, sang trọng, hầu như không kén dáng.",
+      "image": "../../img/nuoc-hoa-mua-he-01.jpg",
+      "price": "700.000 VND",
+      "status": ""
+    },
+    {
+      "id": "nhy1w730u",
+      "name": "Son 3CE Kem Cloud Lip Tint",
+      "cateid": "ax2s6mh7k",
+      "description": "Những gì cậu đang thấy là một mẫu T-shirt của một hãng thời trang nổi tiếng. Cụ thể hơn nó là áo thun Fendi Roma đình đám, có kiểu dáng đơn giản, phong cách thể thao và được sản xuất bằng chất liệu cao cấp nên chắc chắn sẽ rất mát và dễ chịu.Nếu ai hỏi tớ là áo Fendi đắt tiền là do đâu thì tớ sẽ trả lời rằng: là do sự gia công tinh tế đến từng chi tiết. Chữ Fendi Roma được thêu một cách cẩn thận, chính xác làm nổi bât lên thương hiệu Fendi.",
+      "image": "../../img/son.jpg",
+      "price": "250.000VNĐ",
+      "status": "còn hàng"
+    },
+    {
+      "id": "ddmo3907u",
+      "name": "Favita cream – kem chống lão hóa da",
+      "cateid": "ax2s6mh7k",
+      "description": "Thuốc Việt chỉ phân phối các sản phẩm chất lượng đã được kiểm định. Nguồn gốc xuất xứ rõ ràng, có đầy đủ hóa đơn, chứng từ.",
+      "image": "../../img/TOV39Q885_kem_duong_da.jpg",
+      "price": "505.000VĐN",
+      "status": ""
+    },
+    {
+      "id": "b5jftwowl",
+      "name": "Phấn Má Hồng Nhiều Màu Sulwhasoo Radiance Blusher",
+      "cateid": "ax2s6mh7k",
+      "description": "Mang lại sức sống và nét rạng rỡ cho làn da của bạn. Sản phẩm phấn má và highlight hai trông một có tới 3 tông màu làm tăng hiệu ứng highlight giúp khuôn mặt bạn tỏa sáng.",
+      "image": "../../img/12.jpg",
+      "price": "950,000VNĐ",
+      "status": "còn hàng"
+    },
+    {
+      "id": "2fw52gnfz",
+      "name": "Dior Miss Dior Blooming Bouquet",
+      "cateid": "s678awytk",
+      "image": "../../img/nuoc-hoa-scandal---jean-paul-gaultier_b91749e67fd64ccf9b5932af3f67f03d_master.webp",
+      "price": "1.820.000 VNĐ",
+      "description": "Eau de Parfum (EDP)",
+      "status": "còn hàng"
+    },
+    {
+      "id": "yn62j7vsh",
+      "name": "Kem chống nắng Farmstay",
+      "cateid": "ax2s6mh7k",
+      "image": "https://firebasestorage.googleapis.com/v0/b/uploadimg-7f154.appspot.com/o/images%2Fkem-chong-nang-farmstay-oil-free-uv-defense-sun-cream-70ml-kiem-dau.jpg?alt=media&token=7051c0c6-ea45-405f-b35d-8165aa957fb4",
+      "price": "270.000VDN",
+      "description": "Giúp chống các tia UV  của nắng",
+      "status": "in stock"
+    }
+  ],
+  "category": [
+    {
+      "idCate": "ax2s6mh7k",
+      "nameCate": "Lipstick"
+    },
+    {
+      "idCate": "s678awytk",
+      "nameCate": "Perfume"
+    }
+  ]
+}
